@@ -34,11 +34,13 @@ This repository serves as a hands-on learning environment for developing profici
 
 ```
 charting-and-diagram-practice/
-├── diagrams/          # Technical diagrams and flowcharts
-├── charts/            # Data visualization examples
-├── uml/               # UML diagrams (class, sequence, etc.)
-├── examples/          # Practice exercises and samples
-└── resources/         # Learning materials and references
+├── assets/                             # Exported images and screenshots
+├── diagrams/                           # Source diagram files
+│   ├── sequence-diagram/               # Sequence diagrams
+│   └── system-architecture-diagram/    # Architecture designs
+│       └── microservices.drawio
+├── flowchart/                          # Process flowcharts
+└── use-case/                           # Use case diagrams
 ```
 
 ## 🎨 Featured Diagrams
