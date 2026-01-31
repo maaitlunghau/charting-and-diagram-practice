@@ -45,14 +45,24 @@ charting-and-diagram-practice/
   <p>
     <em>https://drive.google.com/file/d/1jIH5deTAiAN4S-mBDxl1IrkdK66DKw8W/view?usp=sharing</em>
   </p>
+</div>
 
-  <br/>
+**Tools:** Gemini AI + Draw.io
 
+**Description:** Microservices diagram with API Gateway as the main entry point, independent services with separate databases. This design makes it easy to scale individual services and deploy independently without affecting the entire system.
+
+<br/>
+
+<div align="center">
   <img src="assets/microservices.png" alt="Microservices Architecture Diagram" width="800"/>
   <p>
     <em>https://sunteco.vn/11-thanh-phan-quan-trong-trong-kien-truc-microservices-phan-1/</em>
   </p>
 </div>
+
+**Tools:** Reference diagram from Sunteco.vn
+
+**Description:** Reference diagram from an article about 11 important components in microservices architecture. Includes service discovery, load balancer, circuit breaker, and monitoring - essential components for real-world microservices deployment.
 
 <br/>
 
@@ -69,6 +79,10 @@ charting-and-diagram-practice/
     <em>https://drive.google.com/file/d/1kEJH04aHo2yVr6EVNVzh1GoZKhIKEugU/view?usp=sharing</em>
   </p>
 </div>
+
+**Tools:** Gemini AI + Draw.io
+
+**Description:** Use case diagram for social media seeding system. Shows the workflow from content creation, scheduling posts, to performance analytics. Clear role separation between Admin and Seeder, with integration to social media platforms through APIs.
 
 ---
 
