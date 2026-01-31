@@ -12,6 +12,9 @@
 ![Next AI Drawio](https://img.shields.io/badge/Next_AI_Drawio-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-0080FF?style=for-the-badge&logo=plantuml&logoColor=white)
 ![NotebookLM](https://img.shields.io/badge/NotebookLM-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+![Amazon Q](https://img.shields.io/badge/Amazon_Q-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
 ![Claude AI](https://img.shields.io/badge/Claude_AI-181818?style=for-the-badge&logo=anthropic&logoColor=white)
 
 </div>
