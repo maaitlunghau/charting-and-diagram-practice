@@ -36,7 +36,9 @@ charting-and-diagram-practice/
 
 ## 🎨 Featured Diagrams
 
-### Microservices Architecture
+### System Architecture
+
+#### 1. Microservices Architecture
 
 <div align="center">
   <img src="assets/microservices.drawio.png" alt="Microservices Architecture Diagram" width="800"/>
@@ -49,6 +51,22 @@ charting-and-diagram-practice/
   <img src="assets/microservices.png" alt="Microservices Architecture Diagram" width="800"/>
   <p>
     <em>https://sunteco.vn/11-thanh-phan-quan-trong-trong-kien-truc-microservices-phan-1/</em>
+  </p>
+</div>
+
+<br/>
+
+
+<hr/>
+
+### Use Case Diagrams
+
+#### 1. Social Media Seeding Use Case
+
+<div align="center">
+  <img src="assets/social-media-seeding-use-case.png" alt="Social Media Seeding Use Case Diagram" width="800"/>
+  <p>
+    <em>Use case diagram illustrating social media seeding workflows and user interactions</em>
   </p>
 </div>
 
