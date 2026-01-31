@@ -66,7 +66,7 @@ charting-and-diagram-practice/
 <div align="center">
   <img src="assets/social-media-seeding-use-case.png" alt="Social Media Seeding Use Case Diagram" width="800"/>
   <p>
-    <em>Use case diagram illustrating social media seeding workflows and user interactions</em>
+    <em>https://drive.google.com/file/d/1kEJH04aHo2yVr6EVNVzh1GoZKhIKEugU/view?usp=sharing</em>
   </p>
 </div>
 
