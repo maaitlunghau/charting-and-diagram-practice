@@ -9,7 +9,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
 ![Whimsical](https://img.shields.io/badge/Whimsical-6C63FF?style=for-the-badge&logo=whimsical&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
