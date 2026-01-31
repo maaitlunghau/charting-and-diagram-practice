@@ -41,7 +41,14 @@ charting-and-diagram-practice/
 <div align="center">
   <img src="assets/microservices.drawio.png" alt="Microservices Architecture Diagram" width="800"/>
   <p>
-    <em>System architecture showcasing microservices design patterns and service interactions</em>
+    <em>https://drive.google.com/file/d/1jIH5deTAiAN4S-mBDxl1IrkdK66DKw8W/view?usp=sharing</em>
+  </p>
+
+  <br/>
+
+  <img src="assets/microservices.png" alt="Microservices Architecture Diagram" width="800"/>
+  <p>
+    <em>https://sunteco.vn/11-thanh-phan-quan-trong-trong-kien-truc-microservices-phan-1/</em>
   </p>
 </div>
 
