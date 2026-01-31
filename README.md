@@ -34,6 +34,17 @@ charting-and-diagram-practice/
 └── resources/         # Learning materials and references
 ```
 
+## 🎨 Featured Diagrams
+
+### Microservices Architecture
+
+<div align="center">
+  <img src="assets/microservices.drawio.png" alt="Microservices Architecture Diagram" width="800"/>
+  <p>
+    <em>System architecture showcasing microservices design patterns and service interactions</em>
+  </p>
+</div>
+
 ---
 
 <div align="center">
