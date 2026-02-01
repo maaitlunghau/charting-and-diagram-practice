@@ -75,6 +75,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 2. Admin Service System Architecture
+
+<div align="center">
+  <img src="assets/admin-service-system-architecture.png" alt="Admin Service System Architecture Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Admin Service as central hub querying User, Order, Payment, and Job services. Each service has its own database for data isolation.
+
+<br/>
+
 
 <hr/>
 
