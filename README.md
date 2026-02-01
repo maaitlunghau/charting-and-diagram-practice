@@ -152,6 +152,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 6. Notification Sequence Diagram
+
+<div align="center">
+  <img src="assets/notification-sequence-diagram.png" alt="Notification Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Real-time notification flow when order is created. Client creates order, Order Service saves it and sends notification event to Notification Service, which pushes the message to user via WebSocket for instant updates.
+
+<br/>
+
 
 <hr/>
 
