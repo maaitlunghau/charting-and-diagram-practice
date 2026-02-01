@@ -128,6 +128,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 4. Transaction Sequence Diagram
+
+<div align="center">
+  <img src="assets/transaction-sequence-diagram.png" alt="Transaction Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Payment flow from bank webhook to user notification. Bank sends transaction data, Payment Service processes it with database transaction (insert payment, update wallet, log transaction), invalidates Redis cache, and triggers notification to user.
+
+<br/>
+
 
 <hr/>
 
