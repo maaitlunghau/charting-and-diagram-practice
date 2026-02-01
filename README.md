@@ -140,6 +140,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 5. Referral Commission Sequence Diagram
+
+<div align="center">
+  <img src="assets/referral-commission-sequence-diagram.png" alt="Referral Commission Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Referral commission flow in three steps: User B registers via User A's referral link, User B creates an order (Order Service fetches referral data and creates commission for User A), order completes and Payment Service adds commission to User A's wallet.
+
+<br/>
+
 
 <hr/>
 
