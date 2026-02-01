@@ -35,11 +35,9 @@ This repository serves as a hands-on learning environment for developing profici
 
 ```
 charting-and-diagram-practice/
-├── assets/                             # Exported images and screenshots
 ├── diagrams/                           # Source diagram files
 │   ├── sequence-diagram/               # Sequence diagrams
 │   └── system-architecture-diagram/    # Architecture designs
-│       └── microservices.drawio
 ├── flowchart/                          # Process flowcharts
 └── use-case/                           # Use case diagrams
 ```
@@ -51,7 +49,7 @@ charting-and-diagram-practice/
 #### 1. Microservices Architecture
 
 <div align="center">
-  <img src="assets/microservices.drawio.png" alt="Microservices Architecture Diagram" width="800"/>
+  <img src="diagrams/system-architecture-diagram/microservices.drawio.png" alt="Microservices Architecture Diagram" width="800"/>
   <p>
     <em>https://drive.google.com/file/d/1jIH5deTAiAN4S-mBDxl1IrkdK66DKw8W/view?usp=sharing</em>
   </p>
@@ -64,7 +62,7 @@ charting-and-diagram-practice/
 <br/>
 
 <div align="center">
-  <img src="assets/microservices.png" alt="Microservices Architecture Diagram" width="800"/>
+  <img src="diagrams/system-architecture-diagram/microservices.png" alt="Microservices Architecture Diagram" width="800"/>
   <p>
     <em>https://sunteco.vn/11-thanh-phan-quan-trong-trong-kien-truc-microservices-phan-1/</em>
   </p>
@@ -79,7 +77,7 @@ charting-and-diagram-practice/
 #### 2. Admin Service System Architecture
 
 <div align="center">
-  <img src="assets/admin-service-system-architecture.png" alt="Admin Service System Architecture Diagram" width="800"/>
+  <img src="diagrams/system-architecture-diagram/admin-service-system-architecture.png" alt="Admin Service System Architecture Diagram" width="800"/>
 </div>
 
 **Tools:** Amazon Q + Mermaid.ai
@@ -96,7 +94,7 @@ charting-and-diagram-practice/
 #### 1. Admin Dashboard Sequence Diagram
 
 <div align="center">
-  <img src="assets/admin-dashboard-sequence-diagram.png" alt="Admin Dashboard Sequence Diagram" width="800"/>
+  <img src="diagrams/sequence-diagram/admin-dashboard-sequence-diagram.png" alt="Admin Dashboard Sequence Diagram" width="800"/>
 </div>
 
 **Tools:** Amazon Q + Mermaid.ai
@@ -108,7 +106,7 @@ charting-and-diagram-practice/
 #### 2. Catalog Service Sequence Diagram
 
 <div align="center">
-  <img src="assets/catalog-service-sequence-diagram.png" alt="Catalog Service Sequence Diagram" width="800"/>
+  <img src="diagrams/sequence-diagram/catalog-service-sequence-diagram.png" alt="Catalog Service Sequence Diagram" width="800"/>
 </div>
 
 **Tools:** Amazon Q + Mermaid.ai
@@ -120,7 +118,7 @@ charting-and-diagram-practice/
 #### 3. User Service Sequence Diagram
 
 <div align="center">
-  <img src="assets/user-service-sequence-diagram.png" alt="User Service Sequence Diagram" width="800"/>
+  <img src="diagrams/sequence-diagram/user-service-sequence-diagram.png" alt="User Service Sequence Diagram" width="800"/>
 </div>
 
 **Tools:** Amazon Q + Mermaid.ai
@@ -132,7 +130,7 @@ charting-and-diagram-practice/
 #### 4. Transaction Sequence Diagram
 
 <div align="center">
-  <img src="assets/transaction-sequence-diagram.png" alt="Transaction Sequence Diagram" width="800"/>
+  <img src="diagrams/sequence-diagram/transaction-sequence-diagram.png" alt="Transaction Sequence Diagram" width="800"/>
 </div>
 
 **Tools:** Amazon Q + Mermaid.ai
@@ -144,7 +142,7 @@ charting-and-diagram-practice/
 #### 5. Referral Commission Sequence Diagram
 
 <div align="center">
-  <img src="assets/referral-commission-sequence-diagram.png" alt="Referral Commission Sequence Diagram" width="800"/>
+  <img src="diagrams/sequence-diagram/referral-commission-sequence-diagram.png" alt="Referral Commission Sequence Diagram" width="800"/>
 </div>
 
 **Tools:** Amazon Q + Mermaid.ai
@@ -156,7 +154,7 @@ charting-and-diagram-practice/
 #### 6. Notification Sequence Diagram
 
 <div align="center">
-  <img src="assets/notification-sequence-diagram.png" alt="Notification Sequence Diagram" width="800"/>
+  <img src="diagrams/sequence-diagram/notification-sequence-diagram.png" alt="Notification Sequence Diagram" width="800"/>
 </div>
 
 **Tools:** Amazon Q + Mermaid.ai
@@ -168,7 +166,7 @@ charting-and-diagram-practice/
 #### 7. Post Ticket Sequence Diagram
 
 <div align="center">
-  <img src="assets/post-ticket-sequence-diagram.png" alt="Post Ticket Sequence Diagram" width="800"/>
+  <img src="diagrams/sequence-diagram/post-ticket-sequence-diagram.png" alt="Post Ticket Sequence Diagram" width="800"/>
 </div>
 
 **Tools:** Amazon Q + Mermaid.ai
@@ -185,7 +183,7 @@ charting-and-diagram-practice/
 #### 1. Social Media Seeding Use Case
 
 <div align="center">
-  <img src="assets/social-media-seeding-use-case.png" alt="Social Media Seeding Use Case Diagram" width="800"/>
+  <img src="use-case/social-media-seeding-use-case.png" alt="Social Media Seeding Use Case Diagram" width="800"/>
   <p>
     <em>https://drive.google.com/file/d/1kEJH04aHo2yVr6EVNVzh1GoZKhIKEugU/view?usp=sharing</em>
   </p>
