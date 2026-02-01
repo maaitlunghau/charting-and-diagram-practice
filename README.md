@@ -104,6 +104,30 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 2. Catalog Service Sequence Diagram
+
+<div align="center">
+  <img src="assets/catalog-service-sequence-diagram.png" alt="Catalog Service Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Three-step workflow: Client fetches platform list (Facebook, Instagram, TikTok), selects a platform to get available services (Like, Follow, Comment), then retrieves pricing packages for the chosen service.
+
+<br/>
+
+#### 3. User Service Sequence Diagram
+
+<div align="center">
+  <img src="assets/user-service-sequence-diagram.png" alt="User Service Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Complete user authentication flow in three steps: registration (email validation, create user and wallet), login (verify credentials, generate JWT token), and profile access (verify JWT, fetch user data and wallet balance from database and Redis cache).
+
+<br/>
+
 
 <hr/>
 
