@@ -164,6 +164,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 7. Post Ticket Sequence Diagram
+
+<div align="center">
+  <img src="assets/post-ticket-sequence-diagram.png" alt="Post Ticket Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Support ticket workflow with real-time chat. User creates ticket, Admin views ticket list and connects via WebSocket for live chat. Messages are saved to database and pushed instantly to both parties. Admin closes ticket when resolved.
+
+<br/>
+
 
 <hr/>
 
