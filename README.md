@@ -90,6 +90,23 @@ charting-and-diagram-practice/
 
 <hr/>
 
+### Sequence Diagrams
+
+#### 1. Admin Dashboard Sequence Diagram
+
+<div align="center">
+  <img src="assets/admin-dashboard-sequence-diagram.png" alt="Admin Dashboard Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Admin opens dashboard and fetches statistics from User, Order, and Payment services through API calls. Each service returns data (user stats, order stats, revenue) which the frontend aggregates and displays.
+
+<br/>
+
+
+<hr/>
+
 ### Use Case Diagrams
 
 #### 1. Social Media Seeding Use Case
