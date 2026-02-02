@@ -13,6 +13,7 @@
 
 ![Whimsical](https://img.shields.io/badge/Whimsical-6C63FF?style=for-the-badge&logo=whimsical&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-2196F3?style=for-the-badge&logo=database&logoColor=white)
 ![Next AI Drawio](https://img.shields.io/badge/Next_AI_Drawio-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-0080FF?style=for-the-badge&logo=plantuml&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
@@ -190,6 +191,19 @@ charting-and-diagram-practice/
 **Tools:** Amazon Q + Mermaid.ai
 
 **Description:** Complete database schema for LikeSub VIP platform showing relationships between core entities: Users, Wallets, Orders, Transactions, Packages, Services, Platforms, and supporting tables for referrals, notifications, and admin management. The ERD illustrates foreign key relationships, primary keys, and data types for each field, providing a comprehensive view of the system's data architecture.
+
+<br/><br/>
+
+<div align="center">
+  <img src="diagrams/erd/Likesub-VIP-ERD-dbdiagramIO.png" alt="LikeSub VIP ERD Diagram (dbdiagram.io)" width="800"/>
+  <p>
+    <em>https://dbdiagram.io/d/Likesub-VIP-ERD-697f997bbd82f5fce2451e5e</em>
+  </p>
+</div>
+
+**Tools:** Amazon Q + dbdiagram.io
+
+**Description:** Alternative visualization of the LikeSub VIP database schema created with dbdiagram.io. This version provides a cleaner, more structured layout of the same database entities and relationships, making it easier to understand the data flow and table connections in the system.
 
 <br/>
 
