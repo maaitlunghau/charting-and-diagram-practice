@@ -191,6 +191,19 @@ charting-and-diagram-practice/
 
 **Description:** Complete database schema for LikeSub VIP platform showing relationships between core entities: Users, Wallets, Orders, Transactions, Packages, Services, Platforms, and supporting tables for referrals, notifications, and admin management. The ERD illustrates foreign key relationships, primary keys, and data types for each field, providing a comprehensive view of the system's data architecture.
 
+<br/><br/>
+
+<div align="center">
+  <img src="diagrams/erd/Likesub-VIP-ERD-dbdiagramIO.png" alt="LikeSub VIP ERD Diagram (dbdiagram.io)" width="800"/>
+  <p>
+    <em>https://dbdiagram.io/d/Likesub-VIP-ERD-697f997bbd82f5fce2451e5e</em>
+  </p>
+</div>
+
+**Tools:** Amazon Q + dbdiagram.io
+
+**Description:** Alternative visualization of the LikeSub VIP database schema created with dbdiagram.io. This version provides a cleaner, more structured layout of the same database entities and relationships, making it easier to understand the data flow and table connections in the system.
+
 <br/>
 
 
