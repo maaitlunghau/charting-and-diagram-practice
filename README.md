@@ -213,6 +213,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 11. Data Replication Sequence Diagram
+
+<div align="center">
+  <img src="diagrams/sequence-diagram/data-replication-sequence-diagram.png" alt="Data Replication Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Data replication pattern to reduce service dependencies. When creating order, Order Service fetches service details from Catalog Service and stores serviceName and price directly in Orders table. When viewing order, data is read from local database without calling Catalog Service, improving performance and reducing inter-service calls.
+
+<br/>
+
 
 <hr/>
 
