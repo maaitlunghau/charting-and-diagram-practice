@@ -189,6 +189,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 9. Order Service Data Sharing Sequence Diagram
+
+<div align="center">
+  <img src="diagrams/sequence-diagram/order-service-sharing.png" alt="Order Service Data Sharing Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Data sharing pattern between microservices. Order Service calls User Service internal API to get user data instead of accessing database directly. This maintains service independence and database isolation.
+
+<br/>
+
 
 <hr/>
 
