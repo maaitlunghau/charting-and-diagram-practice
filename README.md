@@ -201,6 +201,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 10. Message Queue Sequence Diagram
+
+<div align="center">
+  <img src="diagrams/sequence-diagram/message-queue-sequence-diagram.png" alt="Message Queue Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Asynchronous order processing using RabbitMQ message queue. User creates order, Order Service deducts payment (1s) then publishes event to RabbitMQ (0.1s) and immediately returns success to user in 1.1 seconds. Job Service and Notification Service process tasks in background by consuming messages from queue. This reduces response time from 4 seconds (HTTP-only) to 1.1 seconds while maintaining reliability.
+
+<br/>
+
 
 <hr/>
 
