@@ -36,6 +36,7 @@ This repository serves as a hands-on learning environment for developing profici
 ```
 charting-and-diagram-practice/
 ├── diagrams/                           # Source diagram files
+│   ├── erd/                            # Entity Relationship Diagrams
 │   ├── sequence-diagram/               # Sequence diagrams
 │   └── system-architecture-diagram/    # Architecture designs
 ├── flowchart/                          # Process flowcharts
@@ -172,6 +173,23 @@ charting-and-diagram-practice/
 **Tools:** Amazon Q + Mermaid.ai
 
 **Description:** Support ticket workflow with real-time chat. User creates ticket, Admin views ticket list and connects via WebSocket for live chat. Messages are saved to database and pushed instantly to both parties. Admin closes ticket when resolved.
+
+<br/>
+
+
+<hr/>
+
+### Entity Relationship Diagrams (ERD)
+
+#### 1. LikeSub VIP Database Schema
+
+<div align="center">
+  <img src="diagrams/erd/likesub-vip-ERD.png" alt="LikeSub VIP ERD Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Complete database schema for LikeSub VIP platform showing relationships between core entities: Users, Wallets, Orders, Transactions, Packages, Services, Platforms, and supporting tables for referrals, notifications, and admin management. The ERD illustrates foreign key relationships, primary keys, and data types for each field, providing a comprehensive view of the system's data architecture.
 
 <br/>
 
