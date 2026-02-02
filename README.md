@@ -225,6 +225,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 12. Example Sharing Sequence Diagram
+
+<div align="center">
+  <img src="diagrams/sequence-diagram/example-sharing-sequence-diagram.png" alt="Example Sharing Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Comparison of two data sharing approaches in microservices. HTTP approach: Service A directly calls Service B API to get data synchronously. Message Queue approach: Service A publishes event to queue, Service B consumes and processes asynchronously. Demonstrates trade-offs between immediate response (HTTP) and decoupled architecture (Message Queue).
+
+<br/>
+
 
 <hr/>
 
@@ -252,10 +264,6 @@ charting-and-diagram-practice/
 **Tools:** Amazon Q + dbdiagram.io
 
 **Description:** Alternative visualization of the LikeSub VIP database schema created with dbdiagram.io. This version provides a cleaner, more structured layout of the same database entities and relationships, making it easier to understand the data flow and table connections in the system.
-
-<br/>
-
-
 <hr/>
 
 ### Use Case Diagrams
