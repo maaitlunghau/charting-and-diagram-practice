@@ -177,6 +177,18 @@ charting-and-diagram-practice/
 
 <br/>
 
+#### 8. HTTP-Only Flow Sequence Diagram
+
+<div align="center">
+  <img src="diagrams/sequence-diagram/only-http-flow-sequence-diagram.png" alt="HTTP-Only Flow Sequence Diagram" width="800"/>
+</div>
+
+**Tools:** Amazon Q + Mermaid.ai
+
+**Description:** Order creation flow using synchronous HTTP API calls across all services. User creates order, Order Service sequentially calls Payment Service (deduct balance - 1s), Job Service (create job - 2s), and Notification Service (send notification - 1s). Total response time is 4 seconds as user must wait for all operations to complete before receiving success response. This diagram illustrates the performance impact of synchronous HTTP-only architecture.
+
+<br/>
+
 
 <hr/>
 
