@@ -13,6 +13,7 @@
 
 ![Whimsical](https://img.shields.io/badge/Whimsical-6C63FF?style=for-the-badge&logo=whimsical&logoColor=white)
 ![Draw.io](https://img.shields.io/badge/Draw.io-F08705?style=for-the-badge&logo=diagramsdotnet&logoColor=white)
+![dbdiagram.io](https://img.shields.io/badge/dbdiagram.io-2196F3?style=for-the-badge&logo=database&logoColor=white)
 ![Next AI Drawio](https://img.shields.io/badge/Next_AI_Drawio-000000?style=for-the-badge&logo=ai&logoColor=white)
 ![PlantUML](https://img.shields.io/badge/PlantUML-0080FF?style=for-the-badge&logo=plantuml&logoColor=white)
 ![Mermaid](https://img.shields.io/badge/Mermaid-FF3670?style=for-the-badge&logo=mermaid&logoColor=white)
